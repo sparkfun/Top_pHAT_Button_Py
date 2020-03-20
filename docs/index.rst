@@ -31,8 +31,8 @@ Table of Contents
    :caption: Other Links
 
 	SparkFun <https://sparkfun.com>
-   SparkFun Environmental Combo Breakout CCS811/BME280 <https://www.sparkfun.com/products/14348>
-	GitHub <https://github.com/sparkfun/Qwiic_BME280_Py>
+   SparkFun Top pHAT <https://www.sparkfun.com/products/16301>
+	GitHub <https://github.com/sparkfun/Top_pHAT_Button_Py>
 	SparkFun qwiic <https://www.sparkfun.com/qwiic>
 
 	

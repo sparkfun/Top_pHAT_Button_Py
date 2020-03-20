@@ -77,7 +77,7 @@ And you can even add docstrings to a module (file) - placing the docstring at th
 #==================================================================================
 
 """
-qwiic_bme280
+top_phat_button
 ============
 Python module for the qwiic bme280 sensor, which is part of the [SparkFun Qwiic Environmental Combo Breakout](https://www.sparkfun.com/products/14348)
 
@@ -104,7 +104,7 @@ The ````docs/conf.py``` file sets the configuration Sphinx will use when buildin
 
 These are variables that describe the project. The key value being the name of the project.
 ```python
-project = 'sparkfun_qwiic_bme280'
+project = 'sparkfun_top_phat_buttons'
 copyright = '2019, SparkFun Electronics'
 author = 'SparkFun Electronics'
 ```
