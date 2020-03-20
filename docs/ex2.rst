@@ -2,6 +2,6 @@
 
 Example 2
 -----------------------------------
-.. literalinclude:: ../examples/qwiic_ex2.py
-    :caption: examples/qwiic_ex2.py
+.. literalinclude:: ../examples/top_phat_button_ex2.py
+    :caption: examples/top_phat_button_ex2.py
     :linenos:
