@@ -19,7 +19,7 @@ Top_pHAT_Button_Py
 	
 </p>
 
-<img src="https://cdn.sparkfun.com//assets/parts/1/2/3/2/9/14348-01.jpg"  align="right" width=300 alt="SparkFun Qwiic Environmental Combo Breakout">
+<img src="https://cdn.sparkfun.com/assets/parts/1/5/0/0/3/16301-SparkFun_Top_pHAT_for_Raspberry_Pi-01.jpg"  align="right" width=300 alt="SparkFun Top pHAT">
 
 Python module for the buttons aboard the [SparkFun Top pHAT](https://www.sparkfun.com/products/16301)
 
