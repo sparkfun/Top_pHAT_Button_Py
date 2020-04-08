@@ -71,7 +71,7 @@ _DEFAULT_NAME = "SparkFun Top pHAT Button"
 # Some devices have multiple availabel addresses - this is a list of these addresses.
 # NOTE: The first address in this list is considered the default I2C address for the
 # device.
-_AVAILABLE_I2C_ADDRESS = [0x6F]
+_AVAILABLE_I2C_ADDRESS = [0x71]
 
 # Register codes for the Joystick
 BUTTON_ID               = 0x00
