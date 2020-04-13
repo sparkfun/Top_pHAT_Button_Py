@@ -9,8 +9,8 @@ Top_pHAT_Button_Py
 		<img src="https://img.shields.io/pypi/pyversions/sparkfun-top-phat-button.svg" /></a>
 	<a href="https://github.com/sparkfun/Top_pHAT_Button_Py/issues" alt="Issues">
 		<img src="https://img.shields.io/github/issues/sparkfun/Top_pHAT_Button_Py.svg" /></a>
-	<a href="https://top-phat-button-py.readthedocs.io/en/latest/?" alt="Documentation">
-		<img src="https://readthedocs.org/projects/top-phat-button-py/badge/?version=latest&style=flat" /></a>
+	<a href="https://sparkfun-top-phat-button.readthedocs.io/en/latest/?" alt="Documentation">
+		<img src="https://readthedocs.org/projects/sparkfun-top-phat-button/badge/?version=latest&style=flat" /></a>
 	<a href="https://github.com/sparkfun/Top_pHAT_Button_Py/blob/master/LICENSE" alt="License">
 		<img src="https://img.shields.io/badge/license-MIT-blue.svg" /></a>
 	<a href="https://twitter.com/intent/follow?screen_name=sparkfun">
@@ -47,7 +47,7 @@ This driver package depends on the qwiic I2C driver:
 
 Documentation
 -------------
-The SparkFun Top pHAT Button module documentation is hosted at [ReadTheDocs](https://top-phat-button-py.readthedocs.io/en/latest/?)
+The SparkFun Top pHAT Button module documentation is hosted at [ReadTheDocs](https://sparkfun-top-phat-button.readthedocs.io/en/latest/?)
 
 Installation
 -------------

@@ -196,7 +196,10 @@ class ToppHATButton(object):
     
     def get_button_pressed(self):
         """
-            Returns 1 when button is currently being pressed. The interrupt must be cleared by the user.  
+            Updates and returns buffer for all buttons and whether or not they are pressed as well as the pressed interrupt flag
+            Reading this register also clears it.
+            7(MSB)  6    5    4    3    2    1    0(LSB)
+              INT  CTR  RGT  LFT  DWN   UP   B    A
 
             :return: button status
             :rtype: integer
@@ -226,7 +229,8 @@ class ToppHATButton(object):
     def get_button_clicked(self):
         """
             Returns 1 when a button has received a full click cycle (press and release). The interrupt must be cleared by the user.
-
+            7(MSB)  6    5    4    3    2    1    0(LSB)
+              INT  CTR  RGT  LFT  DWN   UP   B    A
             :return: Clicked status of all buttons in a byte
             :rtype: integer
         """
